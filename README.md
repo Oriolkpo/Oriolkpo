@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Oriol Civit and actually i'm studying INEFC in Barcelona. In my free time i like to do sport but also typing some code lines!
+
 
 <!--
 **Oriolkpo/Oriolkpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
